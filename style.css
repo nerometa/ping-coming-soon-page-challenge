@@ -295,7 +295,7 @@ select {
 }
 
 .attribution {
-	font-size: 12px;
+	font-size: 1.2rem;
 	text-align: center;
 	margin-bottom: 4.8rem;
 }
@@ -327,5 +327,8 @@ select {
 	.submit-btn {
 		font-size: 1.6rem;
 		flex-basis: 20rem;
+	}
+	.copyright {
+		font-size: 1.2rem;
 	}
 }
