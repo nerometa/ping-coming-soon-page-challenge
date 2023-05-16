@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://nerometa.github.io/ping-coming-soon-page-challenge/)
+-   [Solution URL](https://www.frontendmentor.io/solutions/ping-coming-soon-page-a-little-custom-css-animations-m41uhuM61Q)
+-   [Live Site URL](https://nerometa.github.io/ping-coming-soon-page-challenge/)
 
 ## My process
 
